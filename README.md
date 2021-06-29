@@ -1,3 +1,3 @@
-#events db
+# [events db](https://my-json-server.typicode.com/allanShady/events-db)
 
-json sever event db using [my-json-server](https://my-json-server.typicode.com/) 
+Events data db mock hosted by [my-json-server](https://my-json-server.typicode.com/) 
